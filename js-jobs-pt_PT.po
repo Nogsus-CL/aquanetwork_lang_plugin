@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "Mint"
 msgstr "Hortelã"
@@ -10614,3 +10614,39 @@ msgstr "Verifique a seguinte oferta de emprego no site da Aquanetwork"
 
 msgid "You can also share our social networks"
 msgstr "Você também pode compartilhar em nossas redes sociais"
+
+msgid "Do you accept"
+msgstr "Você aceita"
+
+msgid "Are you the age of majority"
+msgstr "Você já atingiu a maioridade?"
+
+msgid "Privacy Policy"
+msgstr " a Política de Privacidade?"
+
+msgid "Terms and Conditions"
+msgstr "os Termos e Condições?"
+
+msgid "Leave Reason"
+msgstr "Motivo da licença"
+
+msgid "Last Names"
+msgstr "Apelidos"
+
+msgid "I certify that I have a legal work permit in"
+msgstr "Certifico que possuo uma autorização de trabalho legal em"
+
+msgid "Date of Birth"
+msgstr "Data de nascimento"
+
+msgid "Date you can start"
+msgstr "Data em que você pode começar"
+
+msgid "I am Available"
+msgstr "Eu estou disponível"
+
+msgid "Certificate Name"
+msgstr "Nomde do certificado"
+
+msgid "Company name (enter valid and current information)"
+msgstr "Nome da empresa (insira informações válidas e atuais)"

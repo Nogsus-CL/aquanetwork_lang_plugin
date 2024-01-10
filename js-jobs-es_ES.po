@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "Mint"
 msgstr "Mint"
@@ -10624,3 +10624,39 @@ msgstr "También puedes compartir en nuestras redes sociales"
 
 msgid "Plans"
 msgstr "Planes"
+
+msgid "Do you accept"
+msgstr "¿Acepta"
+
+msgid "Are you the age of majority"
+msgstr "¿Es usted mayor de edad?"
+
+msgid "Privacy Policy"
+msgstr "la normas de Política y Privacidad?"
+
+msgid "Terms and Conditions"
+msgstr "los Términos y Condiciones?"
+
+msgid "Leave Reason"
+msgstr "Razón para abandonar"
+
+msgid "Last Names"
+msgstr "Apellidos"
+
+msgid "I certify that I have a legal work permit in"
+msgstr "Certifico que tengo un permiso de trabajo legal en"
+
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+msgid "Date you can start"
+msgstr "Fecha en la que puede comenzar"
+
+msgid "I am Available"
+msgstr "Estoy disponible"
+
+msgid "Certificate Name"
+msgstr "Nombre del certificado"
+
+msgid "Company name (enter valid and current information)"
+msgstr "Nombre de empresa (ingrese información válida y actual)"
